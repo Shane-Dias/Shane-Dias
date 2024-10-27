@@ -11,13 +11,12 @@ jobs:
 
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  
 
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: Shane-Dias
-          output: dist/snake.svg
+          github_user_name: Shane-Dias 
 
       - name: Commit and push the animation
         run: |
