@@ -21,17 +21,19 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
+      - name: Create dist directory
+        run: mkdir -p dist # Create dist directory if it doesn't exist
+
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Optional: Palette setting
-          # theme: github-dark  # Uncomment if you want a dark theme
+          outputs: dist/snake.svg # Specify the output path explicitly
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist  # Ensure `dist` exists
+          build_dir: dist # Ensure this matches where the file is generated
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
