@@ -3,7 +3,6 @@
 ### 🌟 About Me
 I'm a second-year computer engineering student at Fr Conceicao Rodrigues. I have a strong interest in web development and programming languages. I love learning new technologies and collaborating on projects that make a difference.
 
-
 ### 💻 Tech Stack:
 
 #### Programming Languages:
@@ -11,8 +10,6 @@ I'm a second-year computer engineering student at Fr Conceicao Rodrigues. I have
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-<br/>
 
 #### Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -24,8 +21,6 @@ I'm a second-year computer engineering student at Fr Conceicao Rodrigues. I have
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-
-<br/>
 
 #### Tools & Frameworks:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -51,8 +46,6 @@ I'm a second-year computer engineering student at Fr Conceicao Rodrigues. I have
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shane-Dias&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br/>
 
 
 ![Snake animation](https://github.com/Shane-Dias/Shane-Dias/blob/output/snake.svg)
