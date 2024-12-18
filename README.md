@@ -2,6 +2,7 @@
 
 ### 🌟 About Me
 I'm a second-year computer engineering student at Fr Conceicao Rodrigues. I have a strong interest in web development and programming languages. I love learning new technologies and collaborating on projects that make a difference.
+I am currently learning backend web development to expand my skill set and build full-stack applications.
 
 ### 💻 Tech Stack:
 
