@@ -63,6 +63,11 @@ I am currently learning backend web development to expand my skill set and build
 
 ![](https://github-contributor-stats.vercel.app/api?username=Shane-Dias&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- <img
+  src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=github-light&color_snake=007acc"
+  style="max-width: 100%; height: auto;"
+  alt="Snake animation" /> -->
+
 <img 
   src="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/dist/snake.svg"
   style="max-width: 100%; height: auto;" 
