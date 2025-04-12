@@ -59,7 +59,7 @@ I am currently learning backend web development to expand my skill set and build
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/pacman-contribution-graph-dark.svg">
+  <source srcset="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/pacman-contribution-graph.svg">
 </picture>
