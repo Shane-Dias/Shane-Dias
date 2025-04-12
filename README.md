@@ -68,10 +68,7 @@ I am currently learning backend web development to expand my skill set and build
   style="max-width: 100%; height: auto;"
   alt="Snake animation" /> -->
 
-<img 
-  src="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/dist/snake.svg"
-  style="max-width: 100%; height: auto;" 
-  alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/snake.svg" alt="Snake animation" />
 
 ---
 
