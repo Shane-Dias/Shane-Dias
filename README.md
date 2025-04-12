@@ -63,7 +63,7 @@ I am currently learning backend web development to expand my skill set and build
 
 ![](https://github-contributor-stats.vercel.app/api?username=Shane-Dias&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Snake animation](https://github.com/Shane-Dias/Shane-Dias/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -72,4 +72,3 @@ I am currently learning backend web development to expand my skill set and build
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/pacman-contribution-graph.svg">
 </picture> -->
-
