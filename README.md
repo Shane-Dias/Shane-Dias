@@ -46,6 +46,7 @@ I'm a second-year computer engineering student at Fr Conceicao Rodrigues and a f
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Cloudinary](https://img.shields.io/badge/CLOUDINARY-%23337AB7.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ### 📫 Let's Connect!
 
