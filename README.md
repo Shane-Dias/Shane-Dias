@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 
-I'm a second-year computer engineering student at Fr Conceicao Rodrigues and a full-stack MERN developer with a strong foundation in both frontend and backend technologies, I enjoy building dynamic and scalable web applications. I'm passionate about learning new technologies and continuously improving my skills, always seeking opportunities to tackle new challenges and collaborate on meaningful projects.
+I'm a computer engineering student at Fr. Conceicao Rodrigues College with a strong interest in full-stack development. I enjoy building scalable, real-world web applications and working across both frontend and backend systems. I’m continuously learning new technologies, refining my problem-solving skills, and collaborating on projects that have practical impact.
 
 ### 💻 Tech Stack:
 
@@ -22,6 +22,7 @@ I'm a second-year computer engineering student at Fr Conceicao Rodrigues and a f
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" alt="mongodb logo"  />
 <img width="12" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="mysql logo"  />
@@ -44,15 +45,11 @@ I'm a second-year computer engineering student at Fr Conceicao Rodrigues and a f
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Cloudinary](https://img.shields.io/badge/CLOUDINARY-%23337AB7.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### 📫 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-%23E4405F.svg?logo=gmail&logoColor=white)](mailto:shanedias0111@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shane-dias-28a112291)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shane_dias87)
 
 ## 📊 Github Status
 
@@ -84,3 +81,8 @@ I'm a second-year computer engineering student at Fr Conceicao Rodrigues and a f
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shane-Dias/Shane-Dias/output/pacman-contribution-graph.svg">
 </picture> -->
+### 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-%23E4405F.svg?logo=gmail&logoColor=white)](mailto:shanedias0111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shane-dias-28a112291)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shane_dias87)
