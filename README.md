@@ -166,30 +166,30 @@
 
 ---
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shane-Dias&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" />
-  <img src="./profile/top-langs.svg" height="160" alt="Top Languages" />
+  <!-- <img src="./profile/top-langs.svg" height="160" alt="Top Languages" /> -->
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="./profile/stats.svg" height="160" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shane-Dias&radius=16&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
-</div>
+</div> -->
 
----
+<!-- ---
 
 ## 🔝 Top Contributed Repos
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Shane-Dias&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
+</div> -->
 
---- -->
+---
 
 ## 🐍 Contribution Snake
 
