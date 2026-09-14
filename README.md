@@ -17,12 +17,12 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **B.E. Computer Engineering** @ Fr. Conceicao Rodrigues College of Engineering, Mumbai *(Expected 2027 · CGPA: 8.94/10)*
+🎓 **B.E. Computer Engineering** @ Fr. Conceicao Rodrigues College of Engineering, Mumbai
 
 🚀 I build full-stack web apps — from AI-powered safety platforms and serverless AWS pipelines to role-based project portals and Spring Boot backends.
 
 - 🔭 Currently working on: deepening my cloud-native & backend architecture skills
-- 🛠️ Stack of choice: MERN, Django REST Framework, Spring Boot, AWS
+- 🛠️ Stack of choice: MERN, Spring Boot, AWS
 - 🏆 5x Hackathon Winner — Tech-Mania 2K25, FullStack.AI, Code Storm 2025, Oscillation 2K25, Saksham Ideathon '25
 - 💬 Ask me about: REST APIs, system design, mapping APIs, or full-stack deployment
 - 📫 Reach me at: **shanedias0111@gmail.com**
@@ -50,7 +50,6 @@
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -170,7 +169,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shane-Dias&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" />
@@ -193,7 +192,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Shane-Dias&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
----
+--- -->
 
 ## 🐍 Contribution Snake
 
