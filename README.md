@@ -91,7 +91,7 @@
         <img src="https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"/>
         <img src="https://img.shields.io/badge/VirusTotal_API-394EFF?style=flat-square&logo=virustotal&logoColor=white"/>
       </p>
-      <a href="https://github.com/Shane-Dias/Cloud-Sentry">🔗 View Project</a>
+      <a href="https://github.com/Shane-Dias/CCL_MiniProject_Cloud-Sentry">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ BharatSecure</h3>
@@ -119,7 +119,7 @@
         <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white"/>
         <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
       </p>
-      <a href="https://github.com/Shane-Dias/TravelSafe-AI">🔗 View Project</a>
+      <a href="https://github.com/Shane-Dias/TravelSafeAI">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌟 BrightBuilds</h3>
@@ -146,7 +146,7 @@
         <img src="https://img.shields.io/badge/Spring_AOP-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spoonacular_API-FF6B6B?style=flat-square&logo=food&logoColor=white"/>
       </p>
-      <a href="https://github.com/Shane-Dias/RecipeManager">🔗 View Project</a>
+      <a href="https://github.com/Shane-Dias/recipe-manager-springboot">🔗 View Project</a>
     </td>
   </tr>
 </table>
